@@ -6,6 +6,7 @@ The information from each store must not be visible to employees of other stores
 Current Tg_bot version is 1.2
 
 ## REQUIREMENTS
+```
 async-timeout==4.0.2
 attrs==21.4.0
 Babel==2.9.1
@@ -26,7 +27,7 @@ telebot==0.0.4
 urllib3==1.26.10
 vedis==0.7.1
 yarl==1.7.2
-
+```
 
 ## NOTABLE MOMENTS
 My AUTH_TOKEN has been deleted. So, if you want to use this bot, you need to create your own by contacting @BotFather through 
